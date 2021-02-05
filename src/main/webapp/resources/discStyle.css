@@ -1,0 +1,38 @@
+.DivDisc {
+	height: 300px;
+	overflow: auto;
+}
+
+.bullmsg {
+	padding: revert;
+	width: max-content;
+	max-width: 400px;
+	margin: inherit;
+}
+
+.msgcontent {
+	margin: unset;
+	word-wrap: break-word;
+	max-width: inherit;
+}
+
+.dateenvoi {
+	color: darkgray;
+}
+
+textarea {
+	resize: none;
+	border-radius: 5px;
+	border: 1px solid #CCC;
+	margin-top: 25px;
+}
+
+.btn {
+	margin-left: 440px;
+	background-color: #00FF7F;
+	border: 1px solid #00FF7F;
+	border-radius: 5px;
+	width: 70px;
+	height: 30px;
+	font-size: initial;
+}
